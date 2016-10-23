@@ -1,0 +1,29 @@
+* { padding:0; margin:0; outline:0; }
+
+
+.left, .alignleft { float:left; display:inline; }
+.right, .alignright { float:right; display:inline; }
+
+.cl { font-size:0; line-height:0; clear:both; display:block; height:0; }
+
+.al { text-align: left; }
+.ar { text-align: right; }
+.ac { text-align: center; }
+
+
+
+
+
+.portfolio { padding:15px 0 15px 0; position:relative; }
+.portfolio-holder { width:1200px; height:342px; position:relative; overflow:hidden; left:-110px;}
+.portfolio .jcarousel-clip { width:1200px; height:342px; position:relative; overflow:hidden; }
+.portfolio ul{ list-style-type: none; height:340px; position:relative; overflow:hidden; text-align: center; width:800px;}
+.portfolio ul li{ float:left; display:inline; background:#FFF; width:200px; height:340px; padding:6px 0 0 0;}
+.portfolio ul li img{ width:182px; height:234px; }
+.portfolio ul li span{ text-align: right; display:block; padding:0 5px; line-height:18px; }
+.portfolio ul li .image{ height:234px; font-size:0; line-height:0; }
+
+.portfolio-nav a{ font-size:0; line-height:0; width:50px; height:55px; position:absolute; top:65px; text-indent: -4000px;}
+.portfolio-nav a.prev{ left:0; background:url(images/prev.gif)}
+.portfolio-nav a.next{ right:0; background:url(images/next.gif)}
+

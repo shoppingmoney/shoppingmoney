@@ -1,0 +1,298 @@
+[02-Aug-2016 02:10:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/vendor/profile.php:3) in /home/shoppingmone/public_html/vendor/profile.php on line 4
+[04-Aug-2016 01:14:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/vendor/profile.php:3) in /home/shoppingmone/public_html/vendor/profile.php on line 4
+[08-Aug-2016 04:44:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[08-Aug-2016 04:44:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[08-Aug-2016 04:47:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[08-Aug-2016 05:54:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[09-Aug-2016 07:35:54 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 07:35:54 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:25:23 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:25:23 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:33:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 21
+[09-Aug-2016 08:35:57 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:35:57 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:36:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 21
+[09-Aug-2016 08:37:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 21
+[09-Aug-2016 08:38:21 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:38:21 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:39:15 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:39:15 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:42:27 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:42:27 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:59:36 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[09-Aug-2016 08:59:36 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/vendor/lib/Fileupload.php on line 14
+[10-Aug-2016 08:17:35 America/Chicago] PHP Fatal error:  Call to undefined function selectSingleStmt() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 01:56:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 135
+[11-Aug-2016 02:27:08 America/Chicago] PHP Parse error:  syntax error, unexpected ''mrp_total'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 146
+[11-Aug-2016 02:27:17 America/Chicago] PHP Parse error:  syntax error, unexpected ''mrp_total'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 146
+[11-Aug-2016 05:51:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/order_list_all.php:6) in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 7
+[11-Aug-2016 06:08:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/order_list_all.php:6) in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 7
+[11-Aug-2016 06:15:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/order_list_all.php:6) in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 7
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:42:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 06:43:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 162
+[11-Aug-2016 07:54:05 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/shoppingmone/public_html/beta/vendor/order_list_all.php on line 252
+[22-Aug-2016 05:04:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[24-Aug-2016 02:31:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[25-Aug-2016 05:27:33 America/Chicago] PHP Fatal error:  Call to a member function dateFormate() on a non-object in /home/shoppingmone/public_html/beta/vendor/order_detail_popup.php on line 50
+[25-Aug-2016 05:43:26 America/Chicago] PHP Fatal error:  Call to undefined function selectSingleStmt() in /home/shoppingmone/public_html/beta/vendor/include/top-nav.php on line 42
+[25-Aug-2016 05:43:53 America/Chicago] PHP Fatal error:  Call to undefined function selectSingleStmt() in /home/shoppingmone/public_html/beta/vendor/include/top-nav.php on line 42
+[25-Aug-2016 05:44:26 America/Chicago] PHP Fatal error:  Call to undefined function selectSingleStmt() in /home/shoppingmone/public_html/beta/vendor/include/top-nav.php on line 42
+[25-Aug-2016 05:56:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'count' (T_STRING), expecting ',' or ';' in /home/shoppingmone/public_html/beta/vendor/include/top-nav.php on line 43
+[25-Aug-2016 07:11:25 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:28 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:29 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:29 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:44 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:46 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:47 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:47 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:47 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:50 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:51 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:52 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:52 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:52 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:11:53 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:09 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:17 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:23 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:26 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:28 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:28 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:29 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:12:47 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:13:13 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 07:13:17 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/shoppingmone/public_html/beta/vendor/lib/DBQuery.php on line 70
+[25-Aug-2016 20:05:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[26-Aug-2016 02:01:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[26-Aug-2016 07:30:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[26-Aug-2016 07:30:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[26-Aug-2016 07:47:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[26-Aug-2016 08:05:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[27-Aug-2016 00:44:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[27-Aug-2016 01:35:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[27-Aug-2016 01:38:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[27-Aug-2016 02:02:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[27-Aug-2016 02:04:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/vendor/profile.php:3) in /home/shoppingmone/public_html/beta/vendor/profile.php on line 4
+[27-Aug-2016 04:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 119
+[27-Aug-2016 04:44:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 119
+[27-Aug-2016 04:44:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 119
+[27-Aug-2016 07:02:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingmone/public_html/beta/vendor/product_list.php on line 227
+[29-Aug-2016 02:12:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 182
+[29-Aug-2016 02:13:03 America/Chicago] PHP Fatal error:  Call to a member function selectSingleStmt() on a non-object in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 193
+[29-Aug-2016 03:02:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 181
+[29-Aug-2016 03:03:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 181
+[29-Aug-2016 03:04:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 181
+[29-Aug-2016 03:05:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 181
+[29-Aug-2016 03:07:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 182
+[29-Aug-2016 07:47:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/shoppingmone/public_html/beta/vendor/product_list.php on line 198
+[30-Aug-2016 01:46:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/list_request.php on line 114
+[30-Aug-2016 02:35:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 262
+[30-Aug-2016 02:36:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 182
+[30-Aug-2016 02:36:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 182
+[30-Aug-2016 02:37:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 262
+[30-Aug-2016 02:38:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 181
+[30-Aug-2016 02:38:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 262
+[30-Aug-2016 02:40:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 262
+[30-Aug-2016 06:07:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:07:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:34:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:40:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 309
+[30-Aug-2016 06:46:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 309
+[30-Aug-2016 06:46:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:51:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 309
+[30-Aug-2016 06:58:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:59:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:59:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 06:59:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 309
+[30-Aug-2016 06:59:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 309
+[30-Aug-2016 07:00:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 07:00:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/salesdemo.php on line 309
+[30-Aug-2016 08:25:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[30-Aug-2016 08:25:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 00:58:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:14:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:18:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:20:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:20:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:52:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:56:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 01:56:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/sales.php on line 312
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(class/Connection.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 7
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(): Failed opening 'class/Connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 7
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(class/Fileupload.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 8
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(): Failed opening 'class/Fileupload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 8
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(class/DBQuery.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 9
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(): Failed opening 'class/DBQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 9
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(class/Helpers.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 10
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(): Failed opening 'class/Helpers.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 10
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(class/ReturnMsg.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 11
+[31-Aug-2016 03:21:44 America/Chicago] PHP Warning:  include(): Failed opening 'class/ReturnMsg.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 11
+[31-Aug-2016 03:21:44 America/Chicago] PHP Fatal error:  Class 'Connection' not found in /home/shoppingmone/public_html/beta/vendor/invoice.php on line 12
+[31-Aug-2016 20:26:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 175
+[31-Aug-2016 20:26:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 175
+[01-Sep-2016 09:24:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/shoppingmone/public_html/beta/vendor/sales.php on line 249
+[05-Sep-2016 03:32:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/vendor/order_product.php on line 175
+[06-Sep-2016 02:51:13 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 134
+[06-Sep-2016 03:03:56 America/Chicago] PHP Fatal error:  Call to a member function fetchall() on a non-object in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 137
+[06-Sep-2016 03:04:02 America/Chicago] PHP Fatal error:  Call to a member function fetchall() on a non-object in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 137
+[06-Sep-2016 03:15:57 America/Chicago] PHP Fatal error:  Call to a member function getData() on a non-object in /home/shoppingmone/public_html/beta/vendor/edit-profile.php on line 138

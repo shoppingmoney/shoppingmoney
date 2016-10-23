@@ -1,0 +1,314 @@
+[28-May-2016 09:28:15 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/demobuoyant/public_html/shoppingmoney-beta/superadmin/add_category.php on line 27
+[01-Aug-2016 03:15:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/superadmin/product_approval.php:3) in /home/shoppingmone/public_html/superadmin/product_approval.php on line 4
+[01-Aug-2016 03:15:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/superadmin/product_approval.php:3) in /home/shoppingmone/public_html/superadmin/product_approval.php on line 4
+[01-Aug-2016 03:17:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/superadmin/product_approval.php:3) in /home/shoppingmone/public_html/superadmin/product_approval.php on line 4
+[01-Aug-2016 03:17:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/superadmin/product_approval.php:3) in /home/shoppingmone/public_html/superadmin/product_approval.php on line 4
+[01-Aug-2016 07:27:41 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/superadmin/class/Fileupload.php on line 12
+[01-Aug-2016 07:34:29 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/superadmin/class/Fileupload.php on line 12
+[01-Aug-2016 08:44:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/superadmin/profile.php:3) in /home/shoppingmone/public_html/superadmin/profile.php on line 4
+[02-Aug-2016 07:38:35 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[02-Aug-2016 07:41:35 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 06:40:47 America/Chicago] PHP Fatal error:  Call to a member function countDtata() on a non-object in /home/shoppingmone/public_html/superadmin/inc/top.php on line 32
+[03-Aug-2016 06:43:41 America/Chicago] PHP Fatal error:  Call to a member function countDtata() on a non-object in /home/shoppingmone/public_html/superadmin/inc/top.php on line 32
+[03-Aug-2016 06:43:43 America/Chicago] PHP Fatal error:  Call to a member function countDtata() on a non-object in /home/shoppingmone/public_html/superadmin/inc/top.php on line 32
+[03-Aug-2016 06:56:09 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/superadmin/class/Fileupload.php on line 12
+[03-Aug-2016 06:58:08 America/Chicago] PHP Fatal error:  Class 'Fileupload' not found in /home/shoppingmone/public_html/superadmin/add_cms.php on line 16
+[03-Aug-2016 06:58:12 America/Chicago] PHP Fatal error:  Class 'Fileupload' not found in /home/shoppingmone/public_html/superadmin/add_cms.php on line 16
+[03-Aug-2016 06:58:44 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home/shoppingmone/public_html/superadmin/add_cms.php on line 22
+[03-Aug-2016 06:59:16 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/superadmin/class/Fileupload.php on line 12
+[03-Aug-2016 07:50:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/superadmin/user_detail.php on line 4
+[03-Aug-2016 07:50:22 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/superadmin/user_detail.php on line 159
+[03-Aug-2016 08:06:47 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_cms.php on line 28
+[03-Aug-2016 08:43:47 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 08:49:24 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 08:49:37 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 08:49:42 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 08:49:48 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 09:18:03 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 09:18:06 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[03-Aug-2016 09:18:09 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/superadmin/list_latestproB.php on line 28
+[04-Aug-2016 08:19:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:20:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:20:36 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 159
+[04-Aug-2016 08:31:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:31:45 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 159
+[04-Aug-2016 08:32:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:32:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 159
+[04-Aug-2016 08:38:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:38:18 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 159
+[04-Aug-2016 08:38:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:38:23 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 159
+[04-Aug-2016 08:41:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:56:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[04-Aug-2016 08:56:33 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 159
+[05-Aug-2016 06:08:21 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/list_brand.php on line 28
+[05-Aug-2016 06:14:07 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[05-Aug-2016 06:15:24 America/Chicago] PHP Warning:  unlink(latestproBanner/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/list_brand.php on line 28
+[05-Aug-2016 08:05:28 America/Chicago] PHP Warning:  include(class/excel_reader2.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/createtablecsv.php on line 9
+[05-Aug-2016 08:05:28 America/Chicago] PHP Warning:  include(): Failed opening 'class/excel_reader2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/createtablecsv.php on line 9
+[05-Aug-2016 08:06:06 America/Chicago] PHP Warning:  include(class/excel_reader2.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/createtablecsv.php on line 9
+[05-Aug-2016 08:06:06 America/Chicago] PHP Warning:  include(): Failed opening 'class/excel_reader2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/createtablecsv.php on line 9
+[05-Aug-2016 08:06:17 America/Chicago] PHP Warning:  include(class/excel_reader2.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/createtablecsv.php on line 9
+[05-Aug-2016 08:06:17 America/Chicago] PHP Warning:  include(): Failed opening 'class/excel_reader2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/createtablecsv.php on line 9
+[06-Aug-2016 02:18:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 127
+[06-Aug-2016 02:18:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 127
+[06-Aug-2016 02:18:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 127
+[06-Aug-2016 02:18:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 127
+[06-Aug-2016 02:20:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 127
+[06-Aug-2016 02:20:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 127
+[06-Aug-2016 02:21:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 129
+[06-Aug-2016 02:21:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 129
+[06-Aug-2016 02:23:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:23:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:23:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:23:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:23:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:23:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:24:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:24:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:24:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:24:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:24:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:25:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreview.php on line 130
+[06-Aug-2016 02:46:50 America/Chicago] PHP Fatal error:  Class 'Spreadsheet_Excel_Reader' not found in /home/shoppingmone/public_html/beta/superadmin/csvuploader.php on line 48
+[06-Aug-2016 03:06:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreviewpro.php on line 128
+[06-Aug-2016 03:07:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/myreviewpro.php on line 128
+[06-Aug-2016 07:21:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/profile.php:3) in /home/shoppingmone/public_html/beta/superadmin/profile.php on line 4
+[06-Aug-2016 07:22:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/profile.php:3) in /home/shoppingmone/public_html/beta/superadmin/profile.php on line 4
+[06-Aug-2016 07:32:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[06-Aug-2016 10:01:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/list_recharge.php on line 126
+[06-Aug-2016 10:39:58 America/Chicago] PHP Warning:  unlink(upload/FAISHION BANNER 1-01.jpg): No such file or directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 36
+[06-Aug-2016 10:39:58 America/Chicago] PHP Warning:  unlink(upload/): No such file or directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[06-Aug-2016 10:39:58 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 62
+[06-Aug-2016 10:46:00 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[06-Aug-2016 10:51:16 America/Chicago] PHP Warning:  unlink(images/FAISHION BANNER 1-01.jpg): No such file or directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 36
+[06-Aug-2016 10:51:16 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[06-Aug-2016 10:55:14 America/Chicago] PHP Warning:  unlink(images/FAISHION BANNER 1-01.jpg): No such file or directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 36
+[06-Aug-2016 10:55:14 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[06-Aug-2016 10:59:20 America/Chicago] PHP Warning:  unlink(images/1470498914FAISHION BANNER 1-04.jpg): No such file or directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[06-Aug-2016 10:59:20 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 56
+[06-Aug-2016 11:01:42 America/Chicago] PHP Warning:  unlink(images/1470499160unnamed.jpg): No such file or directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[08-Aug-2016 02:05:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[08-Aug-2016 02:42:10 America/Chicago] PHP Fatal error:  Call to undefined method DBQuery::tableExists() in /home/shoppingmone/public_html/beta/superadmin/csvuploader.php on line 34
+[08-Aug-2016 03:17:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(lib/Connection.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 7
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 7
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(lib/Fileupload.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 8
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Fileupload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 8
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(lib/DBQuery.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 9
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(): Failed opening 'lib/DBQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 9
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(lib/Helpers.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 10
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Helpers.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 10
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(lib/ReturnMsg.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 11
+[08-Aug-2016 08:09:38 America/Chicago] PHP Warning:  include(): Failed opening 'lib/ReturnMsg.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 11
+[08-Aug-2016 08:09:38 America/Chicago] PHP Fatal error:  Class 'Connection' not found in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 12
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(lib/Connection.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 7
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 7
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(lib/Fileupload.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 8
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Fileupload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 8
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(lib/DBQuery.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 9
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(): Failed opening 'lib/DBQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 9
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(lib/Helpers.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 10
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Helpers.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 10
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(lib/ReturnMsg.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 11
+[08-Aug-2016 08:10:09 America/Chicago] PHP Warning:  include(): Failed opening 'lib/ReturnMsg.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 11
+[08-Aug-2016 08:10:09 America/Chicago] PHP Fatal error:  Class 'Connection' not found in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 12
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(lib/Connection.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 7
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 7
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(lib/Fileupload.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 8
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Fileupload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 8
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(lib/DBQuery.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 9
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(): Failed opening 'lib/DBQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 9
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(lib/Helpers.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 10
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Helpers.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 10
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(lib/ReturnMsg.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 11
+[08-Aug-2016 08:12:01 America/Chicago] PHP Warning:  include(): Failed opening 'lib/ReturnMsg.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 11
+[08-Aug-2016 08:12:01 America/Chicago] PHP Fatal error:  Class 'Connection' not found in /home/shoppingmone/public_html/beta/superadmin/invoice.php on line 12
+[08-Aug-2016 08:13:51 America/Chicago] PHP Warning:  include(include/menu-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:13:51 America/Chicago] PHP Warning:  include(): Failed opening 'include/menu-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:13:51 America/Chicago] PHP Warning:  include(include/top-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:13:51 America/Chicago] PHP Warning:  include(): Failed opening 'include/top-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:14:44 America/Chicago] PHP Warning:  include(include/menu-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:14:44 America/Chicago] PHP Warning:  include(): Failed opening 'include/menu-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:14:44 America/Chicago] PHP Warning:  include(include/top-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:14:44 America/Chicago] PHP Warning:  include(): Failed opening 'include/top-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:15:16 America/Chicago] PHP Warning:  include(include/menu-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:15:16 America/Chicago] PHP Warning:  include(): Failed opening 'include/menu-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:15:16 America/Chicago] PHP Warning:  include(include/top-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:15:16 America/Chicago] PHP Warning:  include(): Failed opening 'include/top-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:15:34 America/Chicago] PHP Warning:  include(include/menu-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:15:34 America/Chicago] PHP Warning:  include(): Failed opening 'include/menu-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 66
+[08-Aug-2016 08:15:34 America/Chicago] PHP Warning:  include(include/top-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:15:34 America/Chicago] PHP Warning:  include(): Failed opening 'include/top-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 68
+[08-Aug-2016 08:38:48 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shoppingmone/public_html/beta/superadmin/getinvoice.php on line 20
+[09-Aug-2016 02:59:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shoppingmone/public_html/beta/superadmin/list_subcatview.php on line 155
+[10-Aug-2016 02:17:02 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[10-Aug-2016 02:39:34 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[11-Aug-2016 07:59:15 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[16-Aug-2016 06:58:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[16-Aug-2016 06:58:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[16-Aug-2016 06:58:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[16-Aug-2016 08:30:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[16-Aug-2016 08:31:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[16-Aug-2016 08:35:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/profile.php:3) in /home/shoppingmone/public_html/beta/superadmin/profile.php on line 4
+[17-Aug-2016 02:42:07 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:42:07 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:48:09 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:48:09 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:49:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home/shoppingmone/public_html/beta/superadmin/product_upload.php on line 19
+[17-Aug-2016 02:49:43 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:49:43 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:50:42 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:50:42 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:58:04 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 02:58:04 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:09:04 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:09:04 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:15:07 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:15:07 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:16:39 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:16:39 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:22:58 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[17-Aug-2016 03:22:58 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[18-Aug-2016 02:56:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 02:57:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 02:58:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 02:59:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 02:59:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 02:59:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 02:59:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:01:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:01:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:02:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:02:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:02:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:02:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:02:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:03:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:07:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:08:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:15:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 24
+[18-Aug-2016 03:37:50 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 21
+[18-Aug-2016 03:38:02 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 21
+[18-Aug-2016 03:45:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 20
+[18-Aug-2016 03:45:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 28
+[18-Aug-2016 03:46:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 28
+[18-Aug-2016 03:46:49 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 22
+[18-Aug-2016 03:47:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 28
+[18-Aug-2016 03:48:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 28
+[18-Aug-2016 03:48:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 28
+[18-Aug-2016 03:49:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 28
+[18-Aug-2016 03:52:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 29
+[18-Aug-2016 04:36:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 22
+[18-Aug-2016 04:39:41 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 22
+[18-Aug-2016 04:39:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 23
+[18-Aug-2016 04:40:17 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 22
+[18-Aug-2016 04:40:17 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 23
+[18-Aug-2016 06:40:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$state' (T_VARIABLE) in /home/shoppingmone/public_html/beta/superadmin/fetchdata.php on line 22
+[18-Aug-2016 07:01:03 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[18-Aug-2016 07:11:42 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 01:15:23 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/shoppingmone/public_html/beta/superadmin/vendor_product.php on line 19
+[22-Aug-2016 03:13:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[22-Aug-2016 04:45:38 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 05:08:59 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 05:18:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 05:19:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 07:48:30 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 07:56:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[22-Aug-2016 07:59:21 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:00:37 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:02:09 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:02:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:05:43 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:08:27 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:13:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[22-Aug-2016 08:13:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 7
+[22-Aug-2016 08:37:39 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:41:43 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:42:48 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[22-Aug-2016 08:43:48 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[23-Aug-2016 00:58:42 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[23-Aug-2016 00:58:42 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 56
+[23-Aug-2016 01:27:12 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[23-Aug-2016 01:27:12 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 56
+[23-Aug-2016 01:30:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 67
+[23-Aug-2016 01:32:03 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 36
+[23-Aug-2016 01:32:03 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 46
+[23-Aug-2016 01:32:03 America/Chicago] PHP Warning:  unlink(images/): Is a directory in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 56
+[23-Aug-2016 01:40:11 America/Chicago] PHP Fatal error:  Call to undefined function erreo_reporting() in /home/shoppingmone/public_html/beta/superadmin/add_catbanner.php on line 4
+[23-Aug-2016 02:48:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingmone/public_html/beta/superadmin/user.php on line 144
+[23-Aug-2016 03:22:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingmone/public_html/beta/superadmin/user.php on line 42
+[23-Aug-2016 04:40:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[23-Aug-2016 04:42:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[23-Aug-2016 04:42:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[23-Aug-2016 04:47:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shoppingmone/public_html/beta/superadmin/user_detail.php:3) in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 4
+[24-Aug-2016 07:19:41 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 161
+[24-Aug-2016 07:21:59 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/beta/superadmin/user_detail.php on line 161
+[26-Aug-2016 02:07:31 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[26-Aug-2016 02:07:31 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[26-Aug-2016 02:16:13 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[26-Aug-2016 02:16:13 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[27-Aug-2016 05:13:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shoppingmone/public_html/beta/superadmin/admin_pro.php on line 152
+[30-Aug-2016 06:31:58 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/shoppingmone/public_html/beta/superadmin/product_approval.php on line 31
+[30-Aug-2016 08:11:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 19
+[30-Aug-2016 08:11:49 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 25
+[30-Aug-2016 08:19:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingmone/public_html/beta/superadmin/sele.php on line 23
+[30-Aug-2016 08:20:22 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 08:25:32 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 08:32:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 08:38:08 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 08:54:11 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:18:21 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:19:28 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:20:39 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:20:45 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:20:52 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:21:19 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:21:26 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:23:03 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 77
+[30-Aug-2016 11:24:32 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 81
+[30-Aug-2016 11:44:36 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/shoppingmone/public_html/beta/superadmin/class/DBQuery.php on line 81
+[31-Aug-2016 06:20:51 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/shoppingmone/public_html/beta/superadmin/csvuploader.php on line 85
+[02-Sep-2016 05:21:39 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:21:39 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:23:28 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:23:28 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:24:27 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:24:27 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:29:56 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:29:56 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:46:23 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:46:23 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:47:13 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[02-Sep-2016 05:47:13 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/shoppingmone/public_html/beta/superadmin/class/Fileupload.php on line 12
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(lib/Connection.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 3
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 3
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(lib/Fileupload.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 4
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Fileupload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 4
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(lib/DBQuery.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 5
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(): Failed opening 'lib/DBQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 5
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(lib/Helpers.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 6
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(): Failed opening 'lib/Helpers.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 6
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(lib/ReturnMsg.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 7
+[03-Sep-2016 06:43:07 America/Chicago] PHP Warning:  include(): Failed opening 'lib/ReturnMsg.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 7
+[03-Sep-2016 06:43:07 America/Chicago] PHP Fatal error:  Class 'Connection' not found in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 8
+[03-Sep-2016 06:44:01 America/Chicago] PHP Warning:  include(include/menu-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 138
+[03-Sep-2016 06:44:01 America/Chicago] PHP Warning:  include(): Failed opening 'include/menu-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 138
+[03-Sep-2016 06:44:01 America/Chicago] PHP Warning:  include(include/top-nav.php): failed to open stream: No such file or directory in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 141
+[03-Sep-2016 06:44:01 America/Chicago] PHP Warning:  include(): Failed opening 'include/top-nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingmone/public_html/beta/superadmin/order_product.php on line 141
+[05-Sep-2016 06:00:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shoppingmone/public_html/beta/superadmin/class/Connection.php:26) in /home/shoppingmone/public_html/beta/superadmin/order_setting.php on line 18
+[05-Sep-2016 06:12:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shoppingmone/public_html/beta/superadmin/class/Connection.php:26) in /home/shoppingmone/public_html/beta/superadmin/order_setting.php on line 19

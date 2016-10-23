@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ref/(.*)/ ref.php?refid=$1
+RewriteRule ref/(.*) ref.php?refid=$1					
+				

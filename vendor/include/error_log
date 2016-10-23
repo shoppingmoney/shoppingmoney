@@ -1,0 +1,2 @@
+[29-Jul-2016 08:14:39 America/Chicago] PHP Fatal error:  Call to a member function selectSingleStmt() on a non-object in /home/shoppingmone/public_html/vendor/include/menu-nav.php on line 2
+[29-Jul-2016 08:15:07 America/Chicago] PHP Fatal error:  Call to a member function selectSingleStmt() on a non-object in /home/shoppingmone/public_html/vendor/include/menu-nav.php on line 2

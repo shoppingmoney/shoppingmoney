@@ -1,0 +1,243 @@
+[15-Jun-2016 14:38:53 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/mlm.php on line 271
+[15-Jun-2016 14:42:36 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/mlm.php on line 273
+[15-Jun-2016 14:44:46 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/mlm.php on line 272
+[16-Jun-2016 04:51:16 UTC] PHP Fatal error:  Class 'Connection' not found in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/howitworkk.php on line 10
+[16-Jun-2016 04:52:48 UTC] PHP Fatal error:  Class 'Connection' not found in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/howitworkk.php on line 10
+[18-Jun-2016 10:50:53 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/includes/config.php on line 21
+[18-Jun-2016 10:51:38 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/includes/config.php on line 21
+[18-Jun-2016 10:52:54 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/includes/config.php on line 21
+[18-Jun-2016 10:54:13 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/includes/config.php on line 21
+[18-Jun-2016 10:55:03 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/demobuoyant/public_html/shoppingmoney-beta/mlm/includes/config.php on line 21
+[29-Jul-2016 05:05:06 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 05:05:16 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 05:06:03 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 07:26:40 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 07:35:19 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:32:54 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:33:21 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:45:43 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:45:51 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:49:10 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:49:15 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 08:49:54 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 23:49:53 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 23:51:27 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[29-Jul-2016 23:51:45 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[30-Jul-2016 00:42:24 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[30-Jul-2016 03:13:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/shoppingmone/public_html/mlm/includes/header.php on line 461
+[30-Jul-2016 03:17:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/shoppingmone/public_html/mlm/includes/header.php on line 482
+[30-Jul-2016 03:22:26 America/Chicago] PHP Fatal error:  Call to undefined method Helpers::systemId() in /home/shoppingmone/public_html/mlm/includes/header.php on line 13
+[30-Jul-2016 06:02:46 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shoppingmone/public_html/mlm/loginborker.php on line 29
+[03-Aug-2016 13:45:42 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 20
+[03-Aug-2016 13:45:42 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 42
+[03-Aug-2016 13:45:42 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 53
+[03-Aug-2016 13:45:42 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 64
+[03-Aug-2016 13:55:08 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 53
+[03-Aug-2016 13:58:26 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 42
+[03-Aug-2016 18:54:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shoppingmone/public_html/mlm/includes/kyc.php on line 179
+[03-Aug-2016 19:18:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function finalregistration() in /home/shoppingmone/public_html/mlm/includes/kyc.php on line 17
+[03-Aug-2016 21:38:31 Asia/Kolkata] PHP Warning:  unlink(upload/): Is a directory in /home/shoppingmone/public_html/mlm/includes/update.php on line 20
+[17-Aug-2016 04:11:17 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[17-Aug-2016 04:11:36 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[17-Aug-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[17-Aug-2016 04:15:28 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[17-Aug-2016 04:16:59 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[17-Aug-2016 04:17:14 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[18-Aug-2016 17:05:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 21
+[18-Aug-2016 06:49:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/shoppingmone/public_html/mlm/mlm.php on line 67
+[19-Aug-2016 10:34:10 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 10:34:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 10:42:07 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 10:42:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:14:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:15:09 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:16:04 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:17:25 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:18:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:19:35 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:20:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:20:15 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:20:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:20:57 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:21:22 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:22:05 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:22:25 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:25:28 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:25:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:26:09 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:28:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:28:07 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:28:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:29:05 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:33:29 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:34:23 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:34:30 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:34:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:34:40 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:35:23 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:35:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:35:40 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:36:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:36:44 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:36:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 14:36:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:06:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:07:41 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:08:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:09:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:09:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:09:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:09:38 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:09:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:11:18 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:12:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:12:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:12:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:12:50 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:13:16 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:19:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:21:01 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:22:05 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:22:05 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:22:26 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:24:11 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:24:18 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:24:54 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:25:05 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:25:11 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:25:12 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:25:50 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:26:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:26:42 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:27:51 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:28:18 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:28:33 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:28:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:29:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:30:03 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:30:23 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:30:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:30:35 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:30:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:31:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:33:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:33:09 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:34:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:34:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:34:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:34:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:36:30 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:36:45 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:36:46 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:12 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:18 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:28 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:39 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:38:44 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 16:42:51 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:09:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:09:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:09:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:10:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:10:32 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:11:01 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:11:17 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:11:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:11:29 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:11:40 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:41:15 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:41:21 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:43:29 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:43:44 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 18:43:53 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[19-Aug-2016 19:10:40 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:47:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:50:06 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:50:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:22 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:26 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:26 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:46 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:51:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:52:38 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:54:07 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:55:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:55:54 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 10:55:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 11:07:52 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 11:08:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 11:09:27 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 11:12:54 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 11:28:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/shoppingmone/public_html/mlm/includes/footer.php on line 308
+[20-Aug-2016 12:14:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 164
+[20-Aug-2016 12:15:23 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 133
+[20-Aug-2016 12:15:23 Asia/Kolkata] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 195
+[20-Aug-2016 12:21:03 Asia/Kolkata] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 200
+[24-Aug-2016 23:46:54 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[24-Aug-2016 23:47:48 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[24-Aug-2016 23:48:12 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[25-Aug-2016 00:10:15 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 00:10:21 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 00:11:27 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[25-Aug-2016 06:18:04 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:20:44 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:21:03 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:23:33 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:23:36 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:29:52 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:30:04 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:39:49 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:41:22 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 06:42:29 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 12:27:47 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 19:23:41 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 19:32:20 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 19:35:22 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 22:23:38 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 22:25:29 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[25-Aug-2016 22:26:22 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[25-Aug-2016 22:27:05 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[26-Aug-2016 10:33:09 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[26-Aug-2016 10:43:18 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[26-Aug-2016 17:30:42 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[26-Aug-2016 17:32:54 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[26-Aug-2016 17:33:32 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[27-Aug-2016 15:23:59 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[27-Aug-2016 19:26:06 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[27-Aug-2016 19:28:34 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[28-Aug-2016 13:47:13 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 14:21:31 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 14:28:17 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 15:03:25 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 15:05:34 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 15:08:42 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 15:19:15 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 15:22:10 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[28-Aug-2016 15:33:48 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[28-Aug-2016 15:34:35 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/genealogy.php on line 138
+[29-Aug-2016 00:20:41 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 00:25:27 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 00:25:59 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 13:27:07 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 13:32:46 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 13:38:02 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 21:24:10 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 21:34:33 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 21:35:58 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[29-Aug-2016 21:36:21 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:12:34 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:43:34 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:47:43 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:48:54 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:49:11 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:49:24 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:50:19 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:52:02 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:53:04 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163
+[30-Aug-2016 08:53:15 Asia/Kolkata] PHP Warning:  array_merge(): Argument #1 is not an array in /home/shoppingmone/public_html/mlm/includes/overview.php on line 163

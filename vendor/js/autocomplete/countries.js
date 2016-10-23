@@ -1,0 +1,23 @@
+﻿var countries = {
+    "1": "Mobile",
+    "2": "Laptop",
+    "3": "Skirt",
+    "4": "Shirt",
+    "5": "Bra",
+    "6": "Computer",
+    "7": "Jeanse",
+    "8": "Shoes",
+    "9": "Sandel",
+    "10": "Book",
+    "11": "Lock",
+    "12": "Helmat",
+    "13": "Sweater",
+    "14": "Sports Wear",
+    "15": "Tabs",
+    "16": "Bulb",
+    "17": "Watch",
+    "18": "Bat",
+    "19": "Pendrive",
+    "20": "Cycle",
+    "21": "Bike"
+}

@@ -1,0 +1,8 @@
+[30-Jul-2016 00:00:44 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/shoppingmone/public_html/mlm/includes/config.php on line 11
+[01-Aug-2016 02:19:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$PhNo' (T_VARIABLE) in /home/shoppingmone/public_html/mlm/ajaxpage/otp.php on line 22
+[01-Aug-2016 02:20:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$PhNo' (T_VARIABLE) in /home/shoppingmone/public_html/mlm/ajaxpage/otp.php on line 22
+[01-Aug-2016 03:34:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/shoppingmone/public_html/mlm/ajaxpage/filladdress.php on line 10
+[01-Aug-2016 03:38:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/shoppingmone/public_html/mlm/ajaxpage/filladdress.php on line 10
+[01-Aug-2016 03:43:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/shoppingmone/public_html/mlm/ajaxpage/filladdress.php on line 10
+[01-Aug-2016 03:44:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/shoppingmone/public_html/mlm/ajaxpage/filladdress.php on line 10
+[03-Aug-2016 05:04:40 America/Chicago] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/shoppingmone/public_html/mlm/includes/config.php on line 113
