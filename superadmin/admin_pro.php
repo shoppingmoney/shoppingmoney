@@ -65,8 +65,6 @@
 		$dbAccess->updateData("UPDATE product_tbl SET verify='$status',readonly='$status' WHERE product_id='$id'");
 		die();
 	}
-	
-	
 	if(isset($_GET['sponid'])){
 	if($_GET['sponserid']==0){
 	$doId=1;
@@ -164,8 +162,10 @@
 											</thead>
 											<tbody>
 												<?php
+													
 													$r = 1;
 													foreach ($getData as $t) {
+													$jscript= $t['product_id'];
 													if($t['verify']==1){
 													$status="Active";
 													$cls = "success";
@@ -203,7 +203,7 @@
 														<!--<a style="float:right;" href="product_approval.php?pid=<?= $t['product_id']; ?>&cat=<?= urlencode($t['category_id']); ?>"><button type="button" class="btn btn-info btn-xs">View</button></a>-->
 													</td>
 													<td>
-														<a href="product_setting.php?poid=<?=$t['product_id'];?>" data-featherlight="ajax" class="btn btn-info btn-sm">Configure</a>
+													<span class="btn btn-info btn-sm" onclick="AdminConfig(<?=$jscript?>);">Configure</span>
 														<!--<select name="opt" class="form-control" onchange="away(this.value,<?=$t['product_id'];?>)">      
 															<?php
 																if($t['menual']!=0){
@@ -259,6 +259,10 @@
 						</div>
 					</div>
 				</div>
+				<div id="supermodal">
+					
+				</div>
+
 				<!-- /page content -->
 				<!-- footer content -->
 				<?php
@@ -385,8 +389,31 @@
 			  var table = $('#datatable-fixed-header').DataTable({
 			    fixedHeader: true
 			  });
+
 			});
 			TableManageButtons.init();
+
+		
+		</script>
+		<script type="text/javascript">
+			var AdminConfig = function(id){
+				$.ajax({
+				        method: "GET",
+				        url: "inc/supermodal.php",
+				        dataType:"text",
+				        data:{'idz': id},
+				          success: function(msg){
+				          	 $("#supermodal").html();
+				          	 $("#supermodal").html(msg);
+				             $("#ProductViewer").modal('show');
+				          },
+				          error: function(){
+				            alert("some error occured");
+				          }
+				        });
+			};
+		
+
 		</script>
 	</body>
 </html>
